@@ -1,0 +1,1245 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Jerseys",
+      "img": "./categories/jerseys.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Fashion Mobile Accessories",
+      "img": "./categories/mobileAccessories.jpg",
+      "jerseysData": [
+        {
+          "productId": 1,
+          "productTitle": "Polyester Short Sleeve Brazil Away Jersey – Blue – 180 GSM",
+          "productImg": "./categories/data/product1.jpg",
+          "productPrise": 878,
+          "productRating": 5,
+          "productRatingCount": 1,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 2,
+          "productTitle": "Bangladesh Football Jersey - Short sleeve Jersey - Football Jersey",
+          "productImg": "./categories/data/product2.jpg",
+          "productPrise": 250,
+          "productRating": 3.5,
+          "productRatingCount": 11,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 3,
+          "productTitle": "Inter Miami Away Jersey 23/24 Season Messi Black Jersey",
+          "productImg": "./categories/data/product3.jpg",
+          "productPrise": 99,
+          "productRating": 4.5,
+          "productRatingCount": 22,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 4,
+          "productTitle": "Al Hilal Jersey - Short Sleeve Jersey - Club Jersey - Football Jersey",
+          "productImg": "./categories/data/product4.jpg",
+          "productPrise": 260,
+          "productRating": 4,
+          "productRatingCount": 72,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 5,
+          "productTitle": "Al Hilal Jersey - Short Sleeve Jersey - Club Jersey - Football Jersey",
+          "productImg": "./categories/data/product5.jpg",
+          "productPrise": 259,
+          "productRating": 4.5,
+          "productRatingCount": 92,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 6,
+          "productTitle": "Al Hilal Jersey - Neymar New Jersey - Football Jersey",
+          "productImg": "./categories/data/product6.jpg",
+          "productPrise": 246,
+          "productRating": 4.5,
+          "productRatingCount": 24,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 7,
+          "productTitle": "New High Quality Half Sleeve T Shirt Jersey - Club Jersey - Football Jersey T Shirt For Men & Wmens",
+          "productImg": "./categories/data/product7.jpg",
+          "productPrise": 72,
+          "productRating": 4.5,
+          "productRatingCount": 44,
+          "productShipping": "Bangladesh"
+        },
+        {
+          "productId": 8,
+          "productTitle": "Al Hilal 23/24 Home Replica Football Jersey Men by rks fashon",
+          "productImg": "./categories/data/product8.jpg",
+          "productPrise": 219,
+          "productRating": 4.5,
+          "productRatingCount": 24,
+          "productShipping": "Bangladesh"
+        },
+        {
+          "productId": 9,
+          "productTitle": "Inter Miami Half Sleeve Pink Jersey 2023",
+          "productImg": "./categories/data/product9.jpg",
+          "productPrise": 99,
+          "productRating": 4.5,
+          "productRatingCount": 6,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 10,
+          "productTitle": "Inter Miami Messi Home Jersey 23-24",
+          "productImg": "./categories/data/product10.jpg",
+          "productPrise": 99,
+          "productRating": 4,
+          "productRatingCount": 24,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 11,
+          "productTitle": "ইন্টার মিয়ামি ফুটবল ক্লাব জার্সি - football jersey",
+          "productImg": "./categories/data/product11.jpg",
+          "productPrise": 87,
+          "productRating": 4.5,
+          "productRatingCount": 20,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 12,
+          "productTitle": "Inter Miami Away Jersey Messi Jersey Club Jersey Football Jersey",
+          "productImg": "./categories/data/product12.jpg",
+          "productPrise": 99,
+          "productRating": 4.5,
+          "productRatingCount": 7,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 13,
+          "productTitle": "Stylish and Fashionable Inter Miami Poly Cotton Fabric (jersey fabric) Official Jersey (Premium Thai Quality) for Men - T-shirt",
+          "productImg": "./categories/data/product13.jpg",
+          "productPrise": 260,
+          "productRating": 4.5,
+          "productRatingCount": 155,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 14,
+          "productTitle": "Bangladesh Football Jersey - Short sleeve Jersey - Football Jersey",
+          "productImg": "./categories/data/product14.jpg",
+          "productPrise": 247,
+          "productRating": 4.5,
+          "productRatingCount": 20,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 15,
+          "productTitle": "ইন্টার মিয়ামি হাফ হাতা জার্সি 2023 - inter miami jersey",
+          "productImg": "./categories/data/product15.jpg",
+          "productPrise": 242,
+          "productRating": 4.5,
+          "productRatingCount": 19,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 16,
+          "productTitle": "Inter Miyami Football Club Jersey",
+          "productImg": "./categories/data/product16.jpg",
+          "productPrise": 90,
+          "productRating": 5,
+          "productRatingCount": 1,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 17,
+          "productTitle": "ইন্টার মিয়ামি ফুটবল ক্লাব জার্সি - football jersey",
+          "productImg": "./categories/data/product17.jpg",
+          "productPrise": 87,
+          "productRating": 4.5,
+          "productRatingCount": 71,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 18,
+          "productTitle": "Inter Miami Jersey - Short Sleeve Jersey - Club Jersey - Football Jersey",
+          "productImg": "./categories/data/product18.jpg",
+          "productPrise": 290,
+          "productRating": 5,
+          "productRatingCount": 19,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 19,
+          "productTitle": "Exclusive Jersey T shirt For Man",
+          "productImg": "./categories/data/product19.jpg",
+          "productPrise": 98,
+          "productRating": 4.5,
+          "productRatingCount": 115,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 20,
+          "productTitle": "Inter Miami Away Jersey 23/24 Season Messi Black Jersey",
+          "productImg": "./categories/data/product20.jpg",
+          "productPrise": 99,
+          "productRating": 4.5,
+          "productRatingCount": 3,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 21,
+          "productTitle": "Three Star Argentina Jersey T Shirt for Man colour cream",
+          "productImg": "./categories/data/product21.jpg",
+          "productPrise": 95,
+          "productRating": 4.5,
+          "productRatingCount": 302,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 22,
+          "productTitle": "Manchester City Jersey - Short Sleeve Football Jersey",
+          "productImg": "./categories/data/product22.jpg",
+          "productPrise": 113,
+          "productRating": 4.5,
+          "productRatingCount": 184,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 23,
+          "productTitle": "আর্সেনাল জার্সি-থাই প্রিমিয়াম জার্সি-ফুটবল জার্সি - argentina jersey 3 star",
+          "productImg": "./categories/data/product23.jpg",
+          "productPrise": 295,
+          "productRating": 4.5,
+          "productRatingCount": 17,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 24,
+          "productTitle": "Al Hilal Jersey 23-24 version Football Jersey Soccer Jersey Tshirt",
+          "productImg": "./categories/data/product24.png",
+          "productPrise": 300,
+          "productRating": 2.5,
+          "productRatingCount": 3,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 25,
+          "productTitle": "BRAZIL Football Jersey AWAY New Kit Thai Premium Fabric 2022 FIFA World Cup Official Jersy Tshirt For Men - Brazil Jersey 2022 World Cup - Brazil Jersey 2022 World Cup",
+          "productImg": "./categories/data/product25.png",
+          "productPrise": 155,
+          "productRating": 4,
+          "productRatingCount": 18,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 26,
+          "productTitle": "Inter Miami Jersey - Messi Jersey - Short sleeve Collar Jersey - Football Jersey",
+          "productImg": "./categories/data/product26.jpg",
+          "productPrise": 290,
+          "productRating": 5,
+          "productRatingCount": 3,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 27,
+          "productTitle": "New Trendy Stylish Men Round Neck Jersey T Shirt For Man",
+          "productImg": "./categories/data/product27.jpg",
+          "productPrise": 99,
+          "productRating": 2.5,
+          "productRatingCount": 3,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 28,
+          "productTitle": "Inter Miami Away Jersey 23/24 Season Messi Pink Jersey",
+          "productImg": "./categories/data/product28.jpg",
+          "productPrise": 154,
+          "productRating": 4,
+          "productRatingCount": 9,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 29,
+          "productTitle": "Inter Miami Football Shorts pink color",
+          "productImg": "./categories/data/product29.png",
+          "productPrise": 155,
+          "productRating": 5,
+          "productRatingCount": 1,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 30,
+          "productTitle": "Inter Miami Collar Half Sleeve Football Jersey 2023",
+          "productImg": "./categories/data/product30.jpg",
+          "productPrise": 274,
+          "productRating": 4.5,
+          "productRatingCount": 51,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 31,
+          "productTitle": "Real Madrid Football Club Short Sleeve New Season 2023/24 Jersey/Kit - Jersey Football - Jersey",
+          "productImg": "./categories/data/product31.png",
+          "productPrise": 362,
+          "productRating": 5,
+          "productRatingCount": 16,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 32,
+          "productTitle": "Jersey Al Hilal Premium Home Jersey Set 23/24 - jersey Football",
+          "productImg": "./categories/data/product32.png",
+          "productPrise": 399,
+          "productRating": 3,
+          "productRatingCount": 7,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 33,
+          "productTitle": "Real Madrid Champion Team Jersey Football Jersey new season 23/24",
+          "productImg": "./categories/data/product33.jpg",
+          "productPrise": 289,
+          "productRating": 4,
+          "productRatingCount": 30,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 34,
+          "productTitle": "Real madrid জার্সি (অ্যামব্রয়ডারি সহ) স্প্যানিশ ক্লাব প্রিমিয়াম সংস্করণ - football jersey",
+          "productImg": "./categories/data/product34.jpg",
+          "productPrise": 232,
+          "productRating": 5,
+          "productRatingCount": 32,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 35,
+          "productTitle": "Inter Miami Jersey - short sleeve Jersey - Club Jersey - Football Jersey",
+          "productImg": "./categories/data/product35.jpg",
+          "productPrise": 259,
+          "productRating": 4.5,
+          "productRatingCount": 14,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 36,
+          "productTitle": "Real Madrid Men'S 2022/23 Season Official Home Jersey",
+          "productImg": "./categories/data/product36.png",
+          "productPrise": 312,
+          "productRating": 4.5,
+          "productRatingCount": 14,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 37,
+          "productTitle": "Al Hilal Jersey- Neymar New Jersey - Al Hilal New Club Jersey- Football Jersey ( Premium Quality)",
+          "productImg": "./categories/data/product37.jpg",
+          "productPrise": 248,
+          "productRating": 5,
+          "productRatingCount": 1,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 38,
+          "productTitle": "Arsenal New Jersey Kit 2023/24 Third Kit New Football Short Sleeve Jersey For Men",
+          "productImg": "./categories/data/product38.jpg",
+          "productPrise": 298,
+          "productRating": 5,
+          "productRatingCount": 1,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 39,
+          "productTitle": "Inter Miyami Football Club Jersey",
+          "productImg": "./categories/data/product39.jpg",
+          "productPrise": 89,
+          "productRating": 4.5,
+          "productRatingCount": 16,
+          "productShipping": "Free Shipping"
+        },
+        {
+          "productId": 40,
+          "productTitle": "Al Hilal Football Club Short Sleeve New Season 2023/24 Jersey/Kit - Jersey Football - Jersey",
+          "productImg": "./categories/data/product40.png",
+          "productPrise": 399,
+          "productRating": 3,
+          "productRatingCount": 6,
+          "productShipping": "Free Shipping"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Phone Cases",
+      "img": "./categories/phoneCases.jpg"
+    },
+    {
+      "id": 4,
+      "title": "T-Shirts",
+      "img": "./categories/tShirt.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Smartwatches",
+      "img": "./categories/smartWatches.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Trimmers, Groomers & Clippers",
+      "img": "./categories/trimmersGroomers.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Cloths & Towels",
+      "img": "./categories/cloths&Towels.jpg"
+    },
+    {
+      "id": 8,
+      "title": "In-Ear Headphones",
+      "img": "./categories/inEarHeadphones.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Hair Oils",
+      "img": "./categories/HairOils.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Door hardware & locks",
+      "img": "./categories/DoorHardware.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Fashion Wallets",
+      "img": "./categories/wallets.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Lens Cleaners",
+      "img": "./categories/lensCleaners.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Masks & Repellents",
+      "img": "./categories/masks&Repellents.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Rings",
+      "img": "./categories/rings.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Accessories",
+      "img": "./categories/accessories.jpg"
+    }
+  ],
+  "trendingNow  ": [{ "id": 1, "title": "json-server", "author": "typicode" }],
+  "justForYou  ": [{ "id": 1, "title": "json-server", "author": "typicode" }],
+  "product": [
+    {
+      "id": 1,
+      "productTitle": "Polyester Short Sleeve Brazil Away Jersey – Blue – 180 GSM",
+      "productImg": "./categories/data/product1.jpg",
+      "productPrise": 878,
+      "productRating": 5,
+      "productRatingCount": 1,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 2,
+      "productTitle": "Bangladesh Football Jersey - Short sleeve Jersey - Football Jersey",
+      "productImg": "./categories/data/product2.jpg",
+      "productPrise": 250,
+      "productRating": 3.5,
+      "productRatingCount": 11,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 3,
+      "productTitle": "Inter Miami Away Jersey 23/24 Season Messi Black Jersey",
+      "productImg": "./categories/data/product3.jpg",
+      "productPrise": 99,
+      "productRating": 4.5,
+      "productRatingCount": 22,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 4,
+      "productTitle": "Al Hilal Jersey - Short Sleeve Jersey - Club Jersey - Football Jersey",
+      "productImg": "./categories/data/product4.jpg",
+      "productPrise": 260,
+      "productRating": 4,
+      "productRatingCount": 72,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 5,
+      "productTitle": "Al Hilal Jersey - Short Sleeve Jersey - Club Jersey - Football Jersey",
+      "productImg": "./categories/data/product5.jpg",
+      "productPrise": 259,
+      "productRating": 4.5,
+      "productRatingCount": 92,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 6,
+      "productTitle": "Al Hilal Jersey - Neymar New Jersey - Football Jersey",
+      "productImg": "./categories/data/product6.jpg",
+      "productPrise": 246,
+      "productRating": 4.5,
+      "productRatingCount": 24,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 7,
+      "productTitle": "New High Quality Half Sleeve T Shirt Jersey - Club Jersey - Football Jersey T Shirt For Men & Wmens",
+      "productImg": "./categories/data/product7.jpg",
+      "productPrise": 72,
+      "productRating": 4.5,
+      "productRatingCount": 44,
+      "productShipping": "Bangladesh",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 8,
+      "productTitle": "Al Hilal 23/24 Home Replica Football Jersey Men by rks fashon",
+      "productImg": "./categories/data/product8.jpg",
+      "productPrise": 219,
+      "productRating": 4.5,
+      "productRatingCount": 24,
+      "productShipping": "Bangladesh",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 9,
+      "productTitle": "Inter Miami Half Sleeve Pink Jersey 2023",
+      "productImg": "./categories/data/product9.jpg",
+      "productPrise": 99,
+      "productRating": 4.5,
+      "productRatingCount": 6,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 10,
+      "productTitle": "Inter Miami Messi Home Jersey 23-24",
+      "productImg": "./categories/data/product10.jpg",
+      "productPrise": 99,
+      "productRating": 4,
+      "productRatingCount": 24,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 11,
+      "productTitle": "ইন্টার মিয়ামি ফুটবল ক্লাব জার্সি - football jersey",
+      "productImg": "./categories/data/product11.jpg",
+      "productPrise": 87,
+      "productRating": 4.5,
+      "productRatingCount": 20,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 12,
+      "productTitle": "Inter Miami Away Jersey Messi Jersey Club Jersey Football Jersey",
+      "productImg": "./categories/data/product12.jpg",
+      "productPrise": 99,
+      "productRating": 4.5,
+      "productRatingCount": 7,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 13,
+      "productTitle": "Stylish and Fashionable Inter Miami Poly Cotton Fabric (jersey fabric) Official Jersey (Premium Thai Quality) for Men - T-shirt",
+      "productImg": "./categories/data/product13.jpg",
+      "productPrise": 260,
+      "productRating": 4.5,
+      "productRatingCount": 155,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 14,
+      "productTitle": "Bangladesh Football Jersey - Short sleeve Jersey - Football Jersey",
+      "productImg": "./categories/data/product14.jpg",
+      "productPrise": 247,
+      "productRating": 4.5,
+      "productRatingCount": 20,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 15,
+      "productTitle": "ইন্টার মিয়ামি হাফ হাতা জার্সি 2023 - inter miami jersey",
+      "productImg": "./categories/data/product15.jpg",
+      "productPrise": 242,
+      "productRating": 4.5,
+      "productRatingCount": 19,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 16,
+      "productTitle": "Inter Miyami Football Club Jersey",
+      "productImg": "./categories/data/product16.jpg",
+      "productPrise": 90,
+      "productRating": 5,
+      "productRatingCount": 1,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 17,
+      "productTitle": "ইন্টার মিয়ামি ফুটবল ক্লাব জার্সি - football jersey",
+      "productImg": "./categories/data/product17.jpg",
+      "productPrise": 87,
+      "productRating": 4.5,
+      "productRatingCount": 71,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 18,
+      "productTitle": "Inter Miami Jersey - Short Sleeve Jersey - Club Jersey - Football Jersey",
+      "productImg": "./categories/data/product18.jpg",
+      "productPrise": 290,
+      "productRating": 5,
+      "productRatingCount": 19,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 19,
+      "productTitle": "Exclusive Jersey T shirt For Man",
+      "productImg": "./categories/data/product19.jpg",
+      "productPrise": 98,
+      "productRating": 4.5,
+      "productRatingCount": 115,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 20,
+      "productTitle": "Inter Miami Away Jersey 23/24 Season Messi Black Jersey",
+      "productImg": "./categories/data/product20.jpg",
+      "productPrise": 99,
+      "productRating": 4.5,
+      "productRatingCount": 3,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 21,
+      "productTitle": "Three Star Argentina Jersey T Shirt for Man colour cream",
+      "productImg": "./categories/data/product21.jpg",
+      "productPrise": 95,
+      "productRating": 4.5,
+      "productRatingCount": 302,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 22,
+      "productTitle": "Manchester City Jersey - Short Sleeve Football Jersey",
+      "productImg": "./categories/data/product22.jpg",
+      "productPrise": 113,
+      "productRating": 4.5,
+      "productRatingCount": 184,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 23,
+      "productTitle": "আর্সেনাল জার্সি-থাই প্রিমিয়াম জার্সি-ফুটবল জার্সি - argentina jersey 3 star",
+      "productImg": "./categories/data/product23.jpg",
+      "productPrise": 295,
+      "productRating": 4.5,
+      "productRatingCount": 17,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 24,
+      "productTitle": "Al Hilal Jersey 23-24 version Football Jersey Soccer Jersey Tshirt",
+      "productImg": "./categories/data/product24.png",
+      "productPrise": 300,
+      "productRating": 2.5,
+      "productRatingCount": 3,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 25,
+      "productTitle": "BRAZIL Football Jersey AWAY New Kit Thai Premium Fabric 2022 FIFA World Cup Official Jersy Tshirt For Men - Brazil Jersey 2022 World Cup - Brazil Jersey 2022 World Cup",
+      "productImg": "./categories/data/product25.png",
+      "productPrise": 155,
+      "productRating": 4,
+      "productRatingCount": 18,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 26,
+      "productTitle": "Inter Miami Jersey - Messi Jersey - Short sleeve Collar Jersey - Football Jersey",
+      "productImg": "./categories/data/product26.jpg",
+      "productPrise": 290,
+      "productRating": 5,
+      "productRatingCount": 3,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 27,
+      "productTitle": "New Trendy Stylish Men Round Neck Jersey T Shirt For Man",
+      "productImg": "./categories/data/product27.jpg",
+      "productPrise": 99,
+      "productRating": 2.5,
+      "productRatingCount": 3,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 28,
+      "productTitle": "Inter Miami Away Jersey 23/24 Season Messi Pink Jersey",
+      "productImg": "./categories/data/product28.jpg",
+      "productPrise": 154,
+      "productRating": 4,
+      "productRatingCount": 9,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 29,
+      "productTitle": "Inter Miami Football Shorts pink color",
+      "productImg": "./categories/data/product29.png",
+      "productPrise": 155,
+      "productRating": 5,
+      "productRatingCount": 1,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 30,
+      "productTitle": "Inter Miami Collar Half Sleeve Football Jersey 2023",
+      "productImg": "./categories/data/product30.jpg",
+      "productPrise": 274,
+      "productRating": 4.5,
+      "productRatingCount": 51,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 31,
+      "productTitle": "Real Madrid Football Club Short Sleeve New Season 2023/24 Jersey/Kit - Jersey Football - Jersey",
+      "productImg": "./categories/data/product31.png",
+      "productPrise": 362,
+      "productRating": 5,
+      "productRatingCount": 16,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 32,
+      "productTitle": "Jersey Al Hilal Premium Home Jersey Set 23/24 - jersey Football",
+      "productImg": "./categories/data/product32.png",
+      "productPrise": 399,
+      "productRating": 3,
+      "productRatingCount": 7,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 33,
+      "productTitle": "Real Madrid Champion Team Jersey Football Jersey new season 23/24",
+      "productImg": "./categories/data/product33.jpg",
+      "productPrise": 289,
+      "productRating": 4,
+      "productRatingCount": 30,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 34,
+      "productTitle": "Real madrid জার্সি (অ্যামব্রয়ডারি সহ) স্প্যানিশ ক্লাব প্রিমিয়াম সংস্করণ - football jersey",
+      "productImg": "./categories/data/product34.jpg",
+      "productPrise": 232,
+      "productRating": 5,
+      "productRatingCount": 32,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 35,
+      "productTitle": "Inter Miami Jersey - short sleeve Jersey - Club Jersey - Football Jersey",
+      "productImg": "./categories/data/product35.jpg",
+      "productPrise": 259,
+      "productRating": 4.5,
+      "productRatingCount": 14,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 36,
+      "productTitle": "Real Madrid Men'S 2022/23 Season Official Home Jersey",
+      "productImg": "./categories/data/product36.png",
+      "productPrise": 312,
+      "productRating": 4.5,
+      "productRatingCount": 14,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 37,
+      "productTitle": "Al Hilal Jersey- Neymar New Jersey - Al Hilal New Club Jersey- Football Jersey ( Premium Quality)",
+      "productImg": "./categories/data/product37.jpg",
+      "productPrise": 248,
+      "productRating": 5,
+      "productRatingCount": 1,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 38,
+      "productTitle": "Arsenal New Jersey Kit 2023/24 Third Kit New Football Short Sleeve Jersey For Men",
+      "productImg": "./categories/data/product38.jpg",
+      "productPrise": 298,
+      "productRating": 5,
+      "productRatingCount": 1,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 39,
+      "productTitle": "Inter Miyami Football Club Jersey",
+      "productImg": "./categories/data/product39.jpg",
+      "productPrise": 89,
+      "productRating": 4.5,
+      "productRatingCount": 16,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 40,
+      "productTitle": "Al Hilal Football Club Short Sleeve New Season 2023/24 Jersey/Kit - Jersey Football - Jersey",
+      "productImg": "./categories/data/product40.png",
+      "productPrise": 399,
+      "productRating": 3,
+      "productRatingCount": 6,
+      "productShipping": "Free Shipping",
+      "categories": "Jerseys"
+    },
+    {
+      "id": 41,
+      "productTitle": "Doraemon Shaped Metal Coin Bank Box with Lock",
+      "productImg": "./categories/fashionMobileAccessories/product1.jpg",
+      "productPrise": 190,
+      "productRating": 5,
+      "productRatingCount": 1,
+      "productShipping": "Bangladesh",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 42,
+      "productTitle": "Special Phone Number Anti-Lost Phone Number Key Ring Keychain",
+      "productImg": "./categories/fashionMobileAccessories/product2.jpg",
+      "productPrise": 110,
+      "productRating": 2.5,
+      "productRatingCount": 1,
+      "productShipping": "Free Shipping",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 43,
+      "productTitle": "Mobile Back Cover Sticker Vinyl Paper Waterproof with Matte Finished",
+      "productImg": "./categories/fashionMobileAccessories/product3.jpg",
+      "productPrise": 71,
+      "productRating": 3,
+      "productRatingCount": 1,
+      "productShipping": "Free Shipping",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 44,
+      "productTitle": "Mobile Back Cover Sticker Vinyl Paper Waterproof with Matte Finished",
+      "productImg": "./categories/fashionMobileAccessories/product4.jpg",
+      "productPrise": 71,
+      "productRating": 4.5,
+      "productRatingCount": 7,
+      "productShipping": "Bangladesh",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 45,
+      "productTitle": "Mobile Back Cover Sticker Vinyl Paper Waterproof with Matte Finished",
+      "productImg": "./categories/fashionMobileAccessories/product5.jpg",
+      "productPrise": 71,
+      "productRating": 0,
+      "productRatingCount": 0,
+      "productShipping": "Bangladesh",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 46,
+      "productTitle": "Mobile Back Cover Sticker Vinyl Paper Waterproof with Matte Finished",
+      "productImg": "./categories/fashionMobileAccessories/product6.jpg",
+      "productPrise": 71,
+      "productRating": 0,
+      "productRatingCount": 0,
+      "productShipping": "Bangladesh",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 47,
+      "productTitle": "Mobile Back Cover Sticker Vinyl Paper Waterproof with Matte Finished",
+      "productImg": "./categories/fashionMobileAccessories/product7.jpg",
+      "productPrise": 71,
+      "productRating": 0,
+      "productRatingCount": 0,
+      "productShipping": "Bangladesh",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 48,
+      "productTitle": "Mobile Back Cover Sticker Vinyl Paper Waterproof with Matte Finished",
+      "productImg": "./categories/fashionMobileAccessories/product8.jpg",
+      "productPrise": 71,
+      "productRating": 0,
+      "productRatingCount": 0,
+      "productShipping": "Bangladesh",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 49,
+      "productTitle": "Mobile Back Cover Sticker Vinyl Paper Waterproof with Matte Finished",
+      "productImg": "./categories/fashionMobileAccessories/product9.jpg",
+      "productPrise": 71,
+      "productRating": 0,
+      "productRatingCount": 0,
+      "productShipping": "Bangladesh",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 50,
+      "productTitle": "Mobile Back Cover Sticker Vinyl Paper Waterproof with Matte Finished",
+      "productImg": "./categories/fashionMobileAccessories/product10.jpg",
+      "productPrise": 71,
+      "productRating": 0,
+      "productRatingCount": 0,
+      "productShipping": "Bangladesh",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 51,
+      "productTitle": "Mobile Back Cover Sticker Vinyl Paper Waterproof with Matte Finished",
+      "productImg": "./categories/fashionMobileAccessories/product11.jpg",
+      "productPrise": 71,
+      "productRating": 0,
+      "productRatingCount": 0,
+      "productShipping": "Bangladesh",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 52,
+      "productTitle": "Mobile Back Cover Sticker Vinyl Paper Waterproof with Matte Finished",
+      "productImg": "./categories/fashionMobileAccessories/product12.jpg",
+      "productPrise": 71,
+      "productRating": 0,
+      "productRatingCount": 0,
+      "productShipping": "Bangladesh",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 53,
+      "productTitle": "Mobile Back Cover Sticker Vinyl Paper Waterproof with Matte Finished",
+      "productImg": "./categories/fashionMobileAccessories/product13.jpg",
+      "productPrise": 71,
+      "productRating": 0,
+      "productRatingCount": 0,
+      "productShipping": "Bangladesh",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 54,
+      "productTitle": "Super Stylish Phone Charging Pocket",
+      "productImg": "./categories/fashionMobileAccessories/product14.jpg",
+      "productPrise": 249,
+      "productRating": 0,
+      "productRatingCount": 0,
+      "productShipping": "Free Shipping",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 55,
+      "productTitle": "Mobile Back Cover Sticker Vinyl Paper Waterproof with Matte Finished",
+      "productImg": "./categories/fashionMobileAccessories/product15.jpg",
+      "productPrise": 71,
+      "productRating": 0,
+      "productRatingCount": 0,
+      "productShipping": "Bangladesh",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 56,
+      "productTitle": "Mobile Back Cover Sticker Vinyl Paper Waterproof with Matte Finished",
+      "productImg": "./categories/fashionMobileAccessories/product16.jpg",
+      "productPrise": 71,
+      "productRating": 0,
+      "productRatingCount": 0,
+      "productShipping": "Bangladesh",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 57,
+      "productTitle": "Water Proof Case For Phone Multi-Colour",
+      "productImg": "./categories/fashionMobileAccessories/product17.jpg",
+      "productPrise": 99,
+      "productRating": 5,
+      "productRatingCount": 418,
+      "productShipping": "Bangladesh",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 58,
+      "productTitle": "Mobile Phone Video Amplifier Enlarge Screen Magnifier",
+      "productImg": "./categories/fashionMobileAccessories/product18.jpg",
+      "productPrise": 161,
+      "productRating": 4.5,
+      "productRatingCount": 47,
+      "productShipping": "Bangladesh",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 59,
+      "productTitle": "3D Mobile Phone Screen Amplifier Foldable Glass, Phone Holder, Movie/Video Magnifier for Smartphone Enlarged Screen",
+      "productImg": "./categories/fashionMobileAccessories/product19.jpg",
+      "productPrise": 159,
+      "productRating": 4.5,
+      "productRatingCount": 37,
+      "productShipping": "Bangladesh",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 60,
+      "productTitle": "Apple Logo Silver Metal Glossy ShineCompatible for iPhone And All Mobile Phone and Tablet For I Apple Logo",
+      "productImg": "./categories/fashionMobileAccessories/product20.jpg",
+      "productPrise": 54,
+      "productRating": 1,
+      "productRatingCount": 1,
+      "productShipping": "Free Shipping",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 61,
+      "productTitle": "Universal Waterproof Cover Pouch Bag Cases For Phone Coque Water proof Phone Case",
+      "productImg": "./categories/fashionMobileAccessories/product21.jpg",
+      "productPrise": 69,
+      "productRating": 4.5,
+      "productRatingCount": 16,
+      "productShipping": "Free Shipping",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 62,
+      "productTitle": "Mobile Back Cover Sticker Vinyl Paper Waterproof with Matte Finished",
+      "productImg": "./categories/fashionMobileAccessories/product22.jpg",
+      "productPrise": 71,
+      "productRating": 0,
+      "productRatingCount": 0,
+      "productShipping": "Bangladesh",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 63,
+      "productTitle": "3D Mobile Phone Video Amplifier Enlarge Screen Magnifier",
+      "productImg": "./categories/fashionMobileAccessories/product23.jpg",
+      "productPrise": 190,
+      "productRating": 4.5,
+      "productRatingCount": 284,
+      "productShipping": "Bangladesh",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 64,
+      "productTitle": "15000 mAh Faster & Mini Power Banks",
+      "productImg": "./categories/fashionMobileAccessories/product24.jpg",
+      "productPrise": 199,
+      "productRating": 4,
+      "productRatingCount": 20,
+      "productShipping": "Bangladesh",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 65,
+      "productTitle": "USB Type-C Port and 3.5mm Earphone Jack Plug With Storage Box Portable Alloy Phone Anti Dust Charging Port Plug Set Accessories",
+      "productImg": "./categories/fashionMobileAccessories/product25.jpg",
+      "productPrise": 110,
+      "productRating": 5,
+      "productRatingCount": 6,
+      "productShipping": "Free Shipping",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 66,
+      "productTitle": "Apple Logo Silver Metal Glossy ShineCompatible for iPhone And All Mobile Phone and Tablet For I Apple Logo",
+      "productImg": "./categories/fashionMobileAccessories/product26.jpg",
+      "productPrise": 82,
+      "productRating": 4,
+      "productRatingCount": 116,
+      "productShipping": "Free Shipping",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 67,
+      "productTitle": "Waterproof Anti-lost Remote Smart Tag",
+      "productImg": "./categories/fashionMobileAccessories/product27.jpg",
+      "productPrise": 168,
+      "productRating": 4,
+      "productRatingCount": 14,
+      "productShipping": "Free Shipping",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 68,
+      "productTitle": "50/70pcs Universal Phone Speaker Earpiece Net Anti Dust Proof Mesh Sticker Creek",
+      "productImg": "./categories/fashionMobileAccessories/product28.jpg",
+      "productPrise": 169,
+      "productRating": 5,
+      "productRatingCount": 3,
+      "productShipping": "Free Shipping",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 69,
+      "productTitle": "Universal Waterproof Pouch Bag For Phone",
+      "productImg": "./categories/fashionMobileAccessories/product29.jpg",
+      "productPrise": 67,
+      "productRating": 4,
+      "productRatingCount": 226,
+      "productShipping": "Free Shipping",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 70,
+      "productTitle": "10PCS Protective Film Charging Port Sticker",
+      "productImg": "./categories/fashionMobileAccessories/product30.jpg",
+      "productPrise": 69,
+      "productRating": 4.5,
+      "productRatingCount": 97,
+      "productShipping": "Free Shipping",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 71,
+      "productTitle": "24pcs Universal Mobile Phone Speaker Dustproof Stickers Earpiece Dustproof Net Sunlight Mall",
+      "productImg": "./categories/fashionMobileAccessories/product31.jpg",
+      "productPrise": 111,
+      "productRating": 5,
+      "productRatingCount": 20,
+      "productShipping": "Free Shipping",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 72,
+      "productTitle": "Mobile Back Cover Sticker Vinyl Paper Waterproof with Matte Finished",
+      "productImg": "./categories/fashionMobileAccessories/product32.jpg",
+      "productPrise": 71,
+      "productRating": 0,
+      "productRatingCount": 0,
+      "productShipping": "Bangladesh",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 73,
+      "productTitle": "Universal Waterproof Cover Pouch Bag Cases For Phone Coque Water proof Phone Case",
+      "productImg": "./categories/fashionMobileAccessories/product33.jpg",
+      "productPrise": 55,
+      "productRating": 4.5,
+      "productRatingCount": 35,
+      "productShipping": "Bangladesh",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 74,
+      "productTitle": "Universal Waterproof Pouch Bag For Phone - Phone Back Cover",
+      "productImg": "./categories/fashionMobileAccessories/product34.jpg",
+      "productPrise": 75,
+      "productRating": 5,
+      "productRatingCount": 4,
+      "productShipping": "Free Shipping",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 75,
+      "productTitle": "Universal Wall Mounted Phone Charging Holder",
+      "productImg": "./categories/fashionMobileAccessories/product35.jpg",
+      "productPrise": 49,
+      "productRating": 4.5,
+      "productRatingCount": 111,
+      "productShipping": "Bangladesh",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 76,
+      "productTitle": "Charging Port USB Type-c Plug- Protection Waterproof Soft Silicone Type C USB Dust Plug",
+      "productImg": "./categories/fashionMobileAccessories/product36.jpg",
+      "productPrise": 50,
+      "productRating": 4.5,
+      "productRatingCount": 19,
+      "productShipping": "Bangladesh",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 77,
+      "productTitle": "New Silicone Circle Finger Ring Buckle Lanyard Simple Short Case Mobile Phone mobile Siliconering",
+      "productImg": "./categories/fashionMobileAccessories/product37.jpg",
+      "productPrise": 60,
+      "productRating": 5,
+      "productRatingCount": 564,
+      "productShipping": "Free Shipping",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 78,
+      "productTitle": "Anti-lost Waterproof Plug Phone Dustproof Plug Integrated Charging Port Silicone Plug for Android Micro USB Type-C IOS",
+      "productImg": "./categories/fashionMobileAccessories/product38.jpg",
+      "productPrise": 150,
+      "productRating": 4.5,
+      "productRatingCount": 7,
+      "productShipping": "Free Shipping",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 79,
+      "productTitle": "Universal Lifting Folding Desktop Bracket Mount Mobile Phone StandHolder for Tablet and Phone",
+      "productImg": "./categories/fashionMobileAccessories/product39.jpg",
+      "productPrise": 167,
+      "productRating": 5,
+      "productRatingCount": 88,
+      "productShipping": "Bangladesh",
+      "categories": "fashionMobileAccessories"
+    },
+    {
+      "id": 80,
+      "productTitle": "Type C Anti Dust Plug set Type-C USB And 3.5mm Earphone Jack set For Smartphone",
+      "productImg": "./categories/fashionMobileAccessories/product40.jpg",
+      "productPrise": 95,
+      "productRating": 4.5,
+      "productRatingCount": 217,
+      "productShipping": "Bangladesh",
+      "categories": "fashionMobileAccessories"
+    }
+  ]
+}

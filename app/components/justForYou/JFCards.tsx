@@ -12,6 +12,8 @@ const JFCards = () => {
         <JFCard />
         <JFCard />
         <JFCard />
+        <JFCard />
+        <JFCard />
       </div>
     </div>
   );

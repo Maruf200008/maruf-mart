@@ -1,3 +1,4 @@
+import Footer from "./Footer";
 import Navbar from "./Navbar";
 import Categories from "./components/Categories";
 import Hero from "./components/Hero";
@@ -12,6 +13,7 @@ export default function Home() {
       <Categories />
       <Trending />
       <JustForYou />
+      <Footer />
     </div>
   );
 }

@@ -9,9 +9,8 @@ import hero2 from "../images/hero2.jpg";
 import hero3 from "../images/hero3.jpg";
 import hero4 from "../images/hero4.jpg";
 import hero5 from "../images/hero5.jpg";
-import hero6 from "../images/hero6.jpg";
 
-const sliderImages = [hero1, hero2, hero3, hero4, hero5, hero6];
+const sliderImages = [hero1, hero2, hero3, hero4, hero5];
 
 const Hero = () => {
   return (
