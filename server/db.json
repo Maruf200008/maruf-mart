@@ -3,91 +3,429 @@
     {
       "id": 1,
       "title": "Jerseys",
-      "img": "./categories/jerseys.jpg"
+      "img": "./categories/jerseys.jpg",
+      "tag": "jerseys"
     },
     {
       "id": 2,
       "title": "Fashion Mobile Accessories",
-      "img": "./categories/mobileAccessories.jpg"
+      "img": "./categories/mobileAccessories.jpg",
+      "tag": "fashionMobileAccessories"
     },
     {
       "id": 3,
       "title": "Phone Cases",
-      "img": "./categories/phoneCases.jpg"
+      "img": "./categories/phoneCases.jpg",
+      "tag": "phoneCases"
     },
     {
       "id": 4,
       "title": "T-Shirts",
-      "img": "./categories/tShirt.jpg"
+      "img": "./categories/tShirt.jpg",
+      "tag": "tShirts"
     },
     {
       "id": 5,
       "title": "Smartwatches",
-      "img": "./categories/smartWatches.jpg"
+      "img": "./categories/smartWatches.jpg",
+      "tag": "smartWatches"
     },
     {
       "id": 6,
       "title": "Trimmers, Groomers & Clippers",
-      "img": "./categories/trimmersGroomers.jpg"
+      "img": "./categories/trimmersGroomers.jpg",
+      "tag": "trimmers"
     },
     {
       "id": 7,
       "title": "Cloths & Towels",
-      "img": "./categories/cloths&Towels.jpg"
+      "img": "./categories/cloths&Towels.jpg",
+      "tag": "cloths&Towels"
     },
     {
       "id": 8,
       "title": "In-Ear Headphones",
-      "img": "./categories/inEarHeadphones.jpg"
+      "img": "./categories/inEarHeadphones.jpg",
+      "tag": "headphones"
     },
     {
       "id": 9,
       "title": "Hair Oils",
-      "img": "./categories/HairOils.jpg"
+      "img": "./categories/HairOils.jpg",
+      "tag": "hairOils"
     },
     {
       "id": 10,
       "title": "Door hardware & locks",
-      "img": "./categories/DoorHardware.jpg"
+      "img": "./categories/DoorHardware.jpg",
+      "tag": "hardwareAndLocks"
     },
     {
       "id": 11,
       "title": "Fashion Wallets",
-      "img": "./categories/wallets.jpg"
+      "img": "./categories/wallets.jpg",
+      "tag": "wallets"
     },
     {
       "id": 12,
       "title": "Lens Cleaners",
-      "img": "./categories/lensCleaners.jpg"
+      "img": "./categories/lensCleaners.jpg",
+      "tag": "lensCleaners"
     },
     {
       "id": 13,
       "title": "Masks & Repellents",
-      "img": "./categories/masks&Repellents.jpg"
+      "img": "./categories/masks&Repellents.jpg",
+      "tag": "masksAndRepellents"
     },
     {
       "id": 14,
       "title": "Rings",
-      "img": "./categories/rings.jpg"
+      "img": "./categories/rings.jpg",
+      "tag": "rings"
     },
     {
       "id": 15,
       "title": "Accessories",
-      "img": "./categories/accessories.jpg"
+      "img": "./categories/accessories.jpg",
+      "tag": "wearAccessories"
     }
   ],
-  "trendingNow  ": [{ "id": 1, "title": "json-server", "author": "typicode" }],
-  "justForYou  ": [{ "id": 1, "title": "json-server", "author": "typicode" }],
+  "justForYou": [
+    {
+      "id": 1,
+      "title": "BMR4 50 KT Led Squire watch for both man and women Blue - Watch For Women",
+      "img": "./categories/justForYou/product1.jpg",
+      "price": 100,
+      "rating": 4,
+      "ratingCount": 3
+    },
+    {
+      "id": 2,
+      "title": "1Pcs Wall Mounted Organizer Storage Box Remote Control Mounted Mobile Phone Plug Wall Holder Charging Multifunction Holder Stand - Phone Stand",
+      "img": "./categories/justForYou/product2.jpg",
+      "price": 46,
+      "rating": 4,
+      "ratingCount": 58
+    },
+    {
+      "id": 3,
+      "title": "5 PCS Colorful luminous butterfly small night lamp flash simulation butterfly lamp Encounter",
+      "img": "./categories/justForYou/product3.jpg",
+      "price": 190,
+      "rating": 4,
+      "ratingCount": 131
+    },
+    {
+      "id": 4,
+      "title": "Beautiful Fairy Light - MultiColour/Multicolor 100Pcs LED Fairy Lights String Celebrations Party Decor & Gifts Decoration Lights, BirthDay, Eid - fairy lights for room decoration",
+      "img": "./categories/justForYou/product4.jpg",
+      "price": 135,
+      "rating": 4,
+      "ratingCount": 131
+    },
+    {
+      "id": 5,
+      "title": "Mixed Fruits and Nuts with_Honey - 250gm",
+      "img": "./categories/justForYou/product5.jpg",
+      "price": 112,
+      "rating": 4,
+      "ratingCount": 3
+    },
+    {
+      "id": 6,
+      "title": "Vintage T9 Hair Cutting Machine Hair Trimmer Recharge Professional Cordless Hair Trimmer",
+      "img": "./categories/justForYou/product6.jpg",
+      "price": 440,
+      "rating": 4,
+      "ratingCount": 76
+    },
+    {
+      "id": 7,
+      "title": "DAMILE Finger Sleeves for Gaming Finger Gloves Sweat Proof Breathable Fingertips For PUBG Mobile Games Touch Screen Finger Cots Cover Sensitive Mobile Touch Pro",
+      "img": "./categories/justForYou/product7.jpg",
+      "price": 299,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 8,
+      "title": "New Collection Better Choice Stylish and Fashionable Exclusive Sneakers Converse for Men",
+      "img": "./categories/justForYou/product8.jpg",
+      "price": 456,
+      "rating": 4,
+      "ratingCount": 7
+    },
+    {
+      "id": 9,
+      "title": "White printed Exclusive Summer Combo T-Shirt & Pant - T Shirt For Man",
+      "img": "./categories/justForYou/product9.jpg",
+      "price": 216,
+      "rating": 4.8,
+      "ratingCount": 1064
+    },
+    {
+      "id": 10,
+      "title": "Men's Pu Leather Wallet High Quality Men Long Wallet Male Business Pu Leather Purse",
+      "img": "./categories/justForYou/product10.jpg",
+      "price": 139,
+      "rating": 4,
+      "ratingCount": 95
+    },
+    {
+      "id": 11,
+      "title": "Black  New  Desing printed T-shirt For Men - T Shirt",
+      "img": "./categories/justForYou/product11.jpg",
+      "price": 86,
+      "rating": 4,
+      "ratingCount": 169
+    },
+    {
+      "id": 12,
+      "title": "Rechargeable 2.4GHz RGB Dual mode  - Nano receiver - Palm Grip - Black Fun Gaming - Optical Wireless Mouse",
+      "img": "./categories/justForYou/product12.jpg",
+      "price": 389,
+      "rating": 4.2,
+      "ratingCount": 147
+    },
+    {
+      "id": 13,
+      "title": "Pregnant Women Belly Support Pillow Female Maternity",
+      "img": "./categories/justForYou/product13.jpg",
+      "price": 480,
+      "rating": 5,
+      "ratingCount": 200
+    },
+    {
+      "id": 14,
+      "title": "Denim Casual shirt for men - Shirt",
+      "img": "./categories/justForYou/product14.jpg",
+      "price": 458,
+      "rating": 4.7,
+      "ratingCount": 25
+    },
+    {
+      "id": 15,
+      "title": "1 এম-ন্যানো ম্যাজিক ডাবল সাইড আঠালো টেপ 2cm/3cm/60pcs লাল বাক্স প্রশস্ত পরিষ্কার জলরোধী অ্যান্টি-স্লিপ ট্রেসলেস স্টিকি জেল প্যাড স্ট্রিপস গ্রিপ গাড়ি হোম অফিস সরবরাহের জন্য - magic stick",
+      "img": "./categories/justForYou/product15.jpg",
+      "price": 67,
+      "rating": 4.2,
+      "ratingCount": 510
+    },
+    {
+      "id": 16,
+      "title": "Loafer Styles' Rubber Sole Winter and Summer Wind Proof Shoe For Men",
+      "img": "./categories/justForYou/product16.jpg",
+      "price": 498,
+      "rating": 5,
+      "ratingCount": 3
+    },
+    {
+      "id": 17,
+      "title": "Backpack For Real Madrid Mini Backpack Travel Bag Daypack Bookbags 10 L  Small Backpack 15 inch - Bag For Boys",
+      "img": "./categories/justForYou/product17.jpg",
+      "price": 144,
+      "rating": 5,
+      "ratingCount": 6
+    },
+    {
+      "id": 18,
+      "title": "American Bracelet  Starfish Buckle Ring Bracelet 4 pieces Set ( Girls Palace)",
+      "img": "./categories/justForYou/product18.jpg",
+      "price": 175,
+      "rating": 5,
+      "ratingCount": 131
+    },
+    {
+      "id": 19,
+      "title": "Apple_AirPods Pro 2nd Gen ANC In Ear Noise Cancelling Headphone Wireless Bluetooth-Black",
+      "img": "./categories/justForYou/product19.jpg",
+      "price": 1650,
+      "rating": 5,
+      "ratingCount": 28
+    },
+    {
+      "id": 20,
+      "title": "Double Fire Metal Crocodile Dolphin Lighter: Direct Windproof Open Fire Conversion Lighter for Men Creative Animal-Inspired Design",
+      "img": "./categories/justForYou/product20.jpg",
+      "price": 353,
+      "rating": 4,
+      "ratingCount": 6
+    },
+    {
+      "id": 21,
+      "title": "2/6/10pcs Android/Iphone Dustproof Net Stickers Speaker",
+      "img": "./categories/justForYou/product21.jpg",
+      "price": 35,
+      "rating": 4.4,
+      "ratingCount": 140
+    },
+
+    {
+      "id": 22,
+      "title": "Al Hilal Jersey 23-24  version Football Jersey Soccer Jersey Tshirt",
+      "img": "./categories/justForYou/product22.jpg",
+      "price": 300,
+      "rating": 3,
+      "ratingCount": 8
+    },
+    {
+      "id": 23,
+      "title": "BINBOND New Quartz men's watch trend market watch style locomotive concept watch For men",
+      "img": "./categories/justForYou/product23.jpg",
+      "price": 474,
+      "rating": 4.3,
+      "ratingCount": 45
+    },
+    {
+      "id": 24,
+      "title": "pack 3 piece underwear for men boxer",
+      "img": "./categories/justForYou/product24.jpg",
+      "price": 97,
+      "rating": 3,
+      "ratingCount": 2
+    }
+  ],
+  "flashSale": [
+    {
+      "id": 1,
+      "title": "M90 Pro TWS Earphones HD Voice, Noise Cancelling, Bluetooth Earbuds - Elevate Your Audio with Unparalleled Sound Experience",
+      "img": "./categories/flashSale/product1.png",
+      "price": 528,
+      "oldPrice": 1000,
+      "sold": 50
+    },
+    {
+      "id": 2,
+      "title": "Clear Men Shampoo Cool Sport Menthol Anti Dandruff 80ml",
+      "img": "./categories/flashSale/product2.jpg",
+      "price": 82,
+      "oldPrice": 120,
+      "sold": 0
+    },
+    {
+      "id": 3,
+      "title": "Vegetable/ Fruit Multi Cutter and Peeler -",
+      "img": "./categories/flashSale/product3.jpg",
+      "price": 89,
+      "oldPrice": 200,
+      "sold": 81
+    },
+    {
+      "id": 4,
+      "title": "Automatic Toothpaste Dispenser with Toothbrush Holder-White - brush holder",
+      "img": "./categories/flashSale/product4.jpg",
+      "price": 249,
+      "oldPrice": 400,
+      "sold": 72
+    },
+    {
+      "id": 5,
+      "title": "Design Nose Noth, Round Twisted Wire Design",
+      "img": "./categories/flashSale/product5.jpg",
+      "price": 640,
+      "oldPrice": 1000,
+      "sold": 1
+    },
+    {
+      "id": 6,
+      "title": "Multifunctional Wall Mount Phone Charging Holder Stand with Extra Storage Box, Remote Control Holder, Mobile Phone Plug, Home Charging Shelf - Router Stand",
+      "img": "./categories/flashSale/product6.jpg",
+      "price": 95,
+      "oldPrice": 250,
+      "sold": 29
+    },
+    {
+      "id": 7,
+      "title": "Oven Proof Glass Serving Dish - Transparent 3 Pcs Set",
+      "img": "./categories/flashSale/product7.jpg",
+      "price": 1960,
+      "oldPrice": 2020,
+      "sold": 3
+    },
+    {
+      "id": 8,
+      "title": "30x30cm Car Bike Wash Double Layer Microfiber Towel: Ideal for Effortless Car Cleaning and Drying, Ensuring",
+      "img": "./categories/flashSale/product8.jpg",
+      "price": 65,
+      "oldPrice": 200,
+      "sold": 111
+    },
+    {
+      "id": 9,
+      "title": "LANBENA Nail Repair Essence Serum Fungus Treatment Nail Removal Onychomycosis-15ml",
+      "img": "./categories/flashSale/product9.jpg",
+      "price": 325,
+      "oldPrice": 950,
+      "sold": 10
+    },
+    {
+      "id": 10,
+      "title": "Acwell 5.5 Licorice PH Balancing Cleansing Toner 150ml",
+      "img": "./categories/flashSale/product10.jpg",
+      "price": 939,
+      "oldPrice": 1000,
+      "sold": 2
+    },
+    {
+      "id": 11,
+      "title": "Free-Hand and 360 Degree Rotating Spin Mop with Floor Cleaning-1Pcs",
+      "img": "./categories/flashSale/product11.jpg",
+      "price": 735,
+      "oldPrice": 800,
+      "sold": 2
+    },
+    {
+      "id": 12,
+      "title": "Topewon Pro 3 Wireless Bluetooth Headphone Smart Touch Sports Stereo Earbuds Headset with Charging Box Headphone",
+      "img": "./categories/flashSale/product12.jpg",
+      "price": 560,
+      "oldPrice": 1000,
+      "sold": 17
+    },
+    {
+      "id": 13,
+      "title": "নতুন 5-60kg জিম ফিটনেস হ্যান্ড গ্রিপ পুরুষদের অ্যাডজাস্টেবল ফিঙ্গার হেভি এক্সারসাইজার শক্তি পেশী রিকভারি হ্যান্ড গ্রিপার ট্রেনারের জন্য - hand grip",
+      "img": "./categories/flashSale/product13.jpg",
+      "price": 142,
+      "oldPrice": 350,
+      "sold": 17
+    },
+    {
+      "id": 14,
+      "title": "(LEVELEX) LR 2018 Rechargeable Folding Table Fan with Light Multifunctional Cute fan",
+      "img": "./categories/flashSale/product14.jpg",
+      "price": 923,
+      "oldPrice": 1700,
+      "sold": 7
+    },
+    {
+      "id": 15,
+      "title": "সাবয়া ইন্টারন্যাশনালের প্রিমিয়াম মানের হোম টেক্স সিনথেটিক পর্দা, - porda",
+      "img": "./categories/flashSale/product15.jpg",
+      "price": 290,
+      "oldPrice": 1410,
+      "sold": 8
+    },
+    {
+      "id": 16,
+      "title": "Whitening Nourishing Ultra Sheer Dry Touch Sunblock SPF 50+  Intensive UV Sunblock Cream",
+      "img": "./categories/flashSale/product16.jpg",
+      "price": 562,
+      "oldPrice": 500,
+      "sold": 3
+    }
+  ],
   "product": [
     {
       "id": 1,
-      "productTitle": "Polyester Short Sleeve Brazil Away Jersey – Blue – 180 GSM",
+      "productTitle": "Polyester Short Sleeve Brazil Away Jersey  Blue 180 GSM",
       "productImg": "./categories/data/product1.jpg",
       "productPrise": 878,
       "productRating": 5,
       "productRatingCount": 1,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 2,
@@ -97,7 +435,7 @@
       "productRating": 3.5,
       "productRatingCount": 11,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 3,
@@ -107,7 +445,7 @@
       "productRating": 4.5,
       "productRatingCount": 22,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 4,
@@ -117,7 +455,7 @@
       "productRating": 4,
       "productRatingCount": 72,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 5,
@@ -127,7 +465,7 @@
       "productRating": 4.5,
       "productRatingCount": 92,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 6,
@@ -137,7 +475,7 @@
       "productRating": 4.5,
       "productRatingCount": 24,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 7,
@@ -147,7 +485,7 @@
       "productRating": 4.5,
       "productRatingCount": 44,
       "productShipping": "Bangladesh",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 8,
@@ -157,7 +495,7 @@
       "productRating": 4.5,
       "productRatingCount": 24,
       "productShipping": "Bangladesh",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 9,
@@ -167,7 +505,7 @@
       "productRating": 4.5,
       "productRatingCount": 6,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 10,
@@ -177,7 +515,7 @@
       "productRating": 4,
       "productRatingCount": 24,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 11,
@@ -187,7 +525,7 @@
       "productRating": 4.5,
       "productRatingCount": 20,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 12,
@@ -197,7 +535,7 @@
       "productRating": 4.5,
       "productRatingCount": 7,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 13,
@@ -207,7 +545,7 @@
       "productRating": 4.5,
       "productRatingCount": 155,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 14,
@@ -217,7 +555,7 @@
       "productRating": 4.5,
       "productRatingCount": 20,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 15,
@@ -227,7 +565,7 @@
       "productRating": 4.5,
       "productRatingCount": 19,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 16,
@@ -237,7 +575,7 @@
       "productRating": 5,
       "productRatingCount": 1,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 17,
@@ -247,7 +585,7 @@
       "productRating": 4.5,
       "productRatingCount": 71,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 18,
@@ -257,7 +595,7 @@
       "productRating": 5,
       "productRatingCount": 19,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 19,
@@ -267,7 +605,7 @@
       "productRating": 4.5,
       "productRatingCount": 115,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 20,
@@ -277,7 +615,7 @@
       "productRating": 4.5,
       "productRatingCount": 3,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 21,
@@ -287,7 +625,7 @@
       "productRating": 4.5,
       "productRatingCount": 302,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 22,
@@ -297,7 +635,7 @@
       "productRating": 4.5,
       "productRatingCount": 184,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 23,
@@ -307,7 +645,7 @@
       "productRating": 4.5,
       "productRatingCount": 17,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 24,
@@ -317,7 +655,7 @@
       "productRating": 2.5,
       "productRatingCount": 3,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 25,
@@ -327,7 +665,7 @@
       "productRating": 4,
       "productRatingCount": 18,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 26,
@@ -337,7 +675,7 @@
       "productRating": 5,
       "productRatingCount": 3,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 27,
@@ -347,7 +685,7 @@
       "productRating": 2.5,
       "productRatingCount": 3,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 28,
@@ -357,7 +695,7 @@
       "productRating": 4,
       "productRatingCount": 9,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 29,
@@ -367,7 +705,7 @@
       "productRating": 5,
       "productRatingCount": 1,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 30,
@@ -377,7 +715,7 @@
       "productRating": 4.5,
       "productRatingCount": 51,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 31,
@@ -387,7 +725,7 @@
       "productRating": 5,
       "productRatingCount": 16,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 32,
@@ -397,7 +735,7 @@
       "productRating": 3,
       "productRatingCount": 7,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 33,
@@ -407,7 +745,7 @@
       "productRating": 4,
       "productRatingCount": 30,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 34,
@@ -417,7 +755,7 @@
       "productRating": 5,
       "productRatingCount": 32,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 35,
@@ -427,7 +765,7 @@
       "productRating": 4.5,
       "productRatingCount": 14,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 36,
@@ -437,7 +775,7 @@
       "productRating": 4.5,
       "productRatingCount": 14,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 37,
@@ -447,7 +785,7 @@
       "productRating": 5,
       "productRatingCount": 1,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 38,
@@ -457,7 +795,7 @@
       "productRating": 5,
       "productRatingCount": 1,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 39,
@@ -467,7 +805,7 @@
       "productRating": 4.5,
       "productRatingCount": 16,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 40,
@@ -477,7 +815,7 @@
       "productRating": 3,
       "productRatingCount": 6,
       "productShipping": "Free Shipping",
-      "categories": "Jerseys"
+      "categories": "jerseys"
     },
     {
       "id": 41,
@@ -5725,6 +6063,408 @@
       "productRatingCount": 10,
       "productShipping": "Free Shipping",
       "categories": "rings"
+    },
+
+    // Wear Accessories
+    {
+      "id": 553,
+      "productTitle": "Long Arm Sleeves for Both Male and Female | Stay Stylish and Protected with Versatile Colors: Black, Sky Blue, Skin, White, Gray",
+      "productImg": "./categories/wearAccessories/product1.jpg",
+      "productPrise": 47,
+      "productRating": 5,
+      "productRatingCount": 1052,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 554,
+      "productTitle": "Washable Cloth Baby Diaper with 1 Pad 3 Layer",
+      "productImg": "./categories/wearAccessories/product2.jpg",
+      "productPrise": 185,
+      "productRating": 4.1,
+      "productRatingCount": 60,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 555,
+      "productTitle": "Silicone Wrist Strap for Mi Band 3 4 5 6 - Black",
+      "productImg": "./categories/wearAccessories/product3.jpg",
+      "productPrise": 45,
+      "productRating": 4.7,
+      "productRatingCount": 694,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 556,
+      "productTitle": "Manicure 7 pcs in 1 Set Stainless Steel Pedicure Set Nail Scissors",
+      "productImg": "./categories/wearAccessories/product4.jpg",
+      "productPrise": 125,
+      "productRating": 4.2,
+      "productRatingCount": 79,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 557,
+      "productTitle": "3 In 1 Travel Kit Set - Neck Pillow, Eye Mask, Ear Bud (Multi Colour)",
+      "productImg": "./categories/wearAccessories/product5.jpg",
+      "productPrise": 139,
+      "productRating": 4.8,
+      "productRatingCount": 105,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 558,
+      "productTitle": "Yoga Headband Anti-Slip Universal Men Women Quick Drying High Elastic Sport",
+      "productImg": "./categories/wearAccessories/product6.jpg",
+      "productPrise": 90,
+      "productRating": 4.2,
+      "productRatingCount": 15,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 559,
+      "productTitle": "Mi Band 3/4 silicon strap -Black",
+      "productImg": "./categories/wearAccessories/product7.jpg",
+      "productPrise": 65,
+      "productRating": 4.7,
+      "productRatingCount": 754,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 560,
+      "productTitle": "Black Screen 5x7 feet Backdrop Background for Photography Professional Video Studio Portrait Clothing Curtain",
+      "productImg": "./categories/wearAccessories/product8.jpg",
+      "productPrise": 430,
+      "productRating": 5,
+      "productRatingCount": 52,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 561,
+      "productTitle": "1pair Arm Sleeves Skin Protection Sleeves",
+      "productImg": "./categories/wearAccessories/product9.jpg",
+      "productPrise": 41,
+      "productRating": 4.3,
+      "productRatingCount": 114,
+      "productShipping": "Free Shipping",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 562,
+      "productTitle": "For Honor X9A Xundd Protective Back Cover Cases Shockproof Airbag Bumper Soft Back Transparent Shell Covers For Honor X9A  phone cover",
+      "productImg": "./categories/wearAccessories/product10.jpg",
+      "productPrise": 130,
+      "productRating": 5,
+      "productRatingCount": 12,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 563,
+      "productTitle": "D1 Dental Braces Orthodontic Tooth Alignment Tool Teeth Grinding Guards Tool Creek",
+      "productImg": "./categories/wearAccessories/product11.jpg",
+      "productPrise": 184,
+      "productRating": 4.4,
+      "productRatingCount": 129,
+      "productShipping": "Free Shipping",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 564,
+      "productTitle": "Lotto Premium Boxer Underwear for Men",
+      "productImg": "./categories/wearAccessories/product12.jpg",
+      "productPrise": 246,
+      "productRating": 5,
+      "productRatingCount": 138,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 565,
+      "productTitle": "Dental Orthodontic Teeth Corrector Braces Tooth Retainer Straighten Tools teeth capped Transparent",
+      "productImg": "./categories/wearAccessories/product13.jpg",
+      "productPrise": 271,
+      "productRating": 4.3,
+      "productRatingCount": 27,
+      "productShipping": "Free Shipping",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 566,
+      "productTitle": "For Realme 11 Pro Plus  Shockproof TPU Bumper Clear Acrylic Mobile Phone Case For Realme 11 Pro Plus   Back Cover",
+      "productImg": "./categories/wearAccessories/product14.jpg",
+      "productPrise": 150,
+      "productRating": 5,
+      "productRatingCount": 3,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 567,
+      "productTitle": "For Redmi 9A / Redmi 9i / Redmi 9AT Xundd Shockproof Anti-drop Shell TPU & PC Back Transparent Cover Edge-Reinforced Bumper Case",
+      "productImg": "./categories/wearAccessories/product15.jpg",
+      "productPrise": 110,
+      "productRating": 5,
+      "productRatingCount": 5,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 568,
+      "productTitle": "Xundd Case For Realme 10 4G Case Shockproof Transparent Bumper Back Phone Cover",
+      "productImg": "./categories/wearAccessories/product16.jpg",
+      "productPrise": 110,
+      "productRating": 5,
+      "productRatingCount": 5,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 569,
+      "productTitle": "5 Pair 5 colors Arm hand Sleeves For Fashion cycling biking playing sports tiktokers",
+      "productImg": "./categories/wearAccessories/product17.jpg",
+      "productPrise": 215,
+      "productRating": 5,
+      "productRatingCount": 148,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 570,
+      "productTitle": "Cotton Nima For Baby Multicolor 10 pcs",
+      "productImg": "./categories/wearAccessories/product18.jpg",
+      "productPrise": 299,
+      "productRating": 4.2,
+      "productRatingCount": 13,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 571,
+      "productTitle": "22mm Soft Silicone Strap For Solar LS05/ Gear S3/ DT78/ DT98/ DT95/ DT92/ L15/ L13/ L16/ Amazfit Pace /Zeblaze GTR-2/ Colmi i30/ Mibro X1/ M29 SmartWatch - Watch Strap",
+      "productImg": "./categories/wearAccessories/product19.png",
+      "productPrise": 144,
+      "productRating": 5,
+      "productRatingCount": 11,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 572,
+      "productTitle": "Ocean strap For Apple watch band 49mm 45mm 44mm 42mm silicone correa bracelet iWatch Ultra series 7 6 3 se 8",
+      "productImg": "./categories/wearAccessories/product20.jpg",
+      "productPrise": 145,
+      "productRating": 5,
+      "productRatingCount": 29,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 573,
+      "productTitle": "1 Pair Hand Sleeves uv outdoor sports sun protection for men women Black Color",
+      "productImg": "./categories/wearAccessories/product21.jpg",
+      "productPrice": 45,
+      "productRating": 4.8,
+      "productRatingCount": 2471,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 574,
+      "productTitle": "Aqua. x Sunscreen uv protection cycling hand sleeve",
+      "productImg": "./categories/wearAccessories/product22.jpg",
+      "productPrice": 48,
+      "productRating": 5,
+      "productRatingCount": 697,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 575,
+      "productTitle": "For Apple Airpods i12 Buds Air Case Silicone Wireless Bluetooth Headset Protective Cover with Hook",
+      "productImg": "./categories/wearAccessories/product23.jpg",
+      "productPrise": 63,
+      "productRating": 4.2,
+      "productRatingCount": 108,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 576,
+      "productTitle": "3 pis Muslim wear Black hijab inner cap for women synthetic soft cotton",
+      "productImg": "./categories/wearAccessories/product24.jpg",
+      "productPrise": 54,
+      "productRating": 5,
+      "productRatingCount": 16,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 577,
+      "productTitle": "3 Piece Hijab inner Cap for Women and girls",
+      "productImg": "./categories/wearAccessories/product25.jpg",
+      "productPrise": 50,
+      "productRating": 5,
+      "productRatingCount": 66,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 578,
+      "productTitle": "hw22 pro Wireless charger /HW22plus cable HW22 pro cable smart watch HW22 plus HW22 pro charging cable wireless charging cable",
+      "productImg": "./categories/wearAccessories/product26.jpg",
+      "productPrise": 450,
+      "productRating": 4.2,
+      "productRatingCount": 39,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 579,
+      "productTitle": "Xiaomi Redmi Note 11G 11S Luxury Camera Case Shockproof Matte and Smokey Cover - Durable and Very Reliable -",
+      "productImg": "./categories/wearAccessories/product27.jpg",
+      "productPrise": 75,
+      "productRating": 5,
+      "productRatingCount": 12,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 580,
+      "productTitle": "For Samsung Galaxy A51 Shockproof  Airbag protective Bumper Case Phone back Cover Mobile Cover - Mobile Back Cover",
+      "productImg": "./categories/wearAccessories/product28.jpg",
+      "productPrise": 110,
+      "productRating": 4.5,
+      "productRatingCount": 66,
+      "productShipping": "Free Shipping",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 581,
+      "productTitle": "For OnePlus Nord CE 5G Shockproof Bumper Transparent Phone Case For OnePlus Nord CE 5G Back Cover - Phone Back Cover - মোবাইল ফোন - Phone",
+      "productImg": "./categories/wearAccessories/product29.jpg",
+      "productPrise": 112,
+      "productRating": 5,
+      "productRatingCount": 15,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 582,
+      "productTitle": "For Xiaomi Redmi Note 11 4G / Xiaomi Redmi Note 11S Mobile Cover Electroplating Acrylic Back transparent Premium Mobile Cover Phone Cases",
+      "productImg": "./categories/wearAccessories/product30.jpg",
+      "productPrise": 219,
+      "productRating": 5,
+      "productRatingCount": 3,
+      "productShipping": "Free Shipping",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 583,
+      "productTitle": "B1G1 Arm hand Sleeves For Fashion cycling biking playing sports tiktokers",
+      "productImg": "./categories/wearAccessories/product31.jpg",
+      "productPrise": 90,
+      "productRating": 5,
+      "productRatingCount": 159,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 584,
+      "productTitle": "For Xiaomi Redmi Note 7 / Note 7S / Note 7 Pro Shockproof Tpu Bumper Clear Acrylic Mobile Phone Case For Redmi Note 7 Back Cover - Camera - Phone Back Cover",
+      "productImg": "./categories/wearAccessories/product32.jpg",
+      "productPrise": 104,
+      "productRating": 5,
+      "productRatingCount": 6,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 585,
+      "productTitle": "For OPPO Reno6 5G Shockproof TPU Bumper Clear Acrylic Mobile Phone Case For oppo reno 6 5g Back Cover - Camera",
+      "productImg": "./categories/wearAccessories/product33.jpg",
+      "productPrise": 150,
+      "productRating": 4,
+      "productRatingCount": 6,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 586,
+      "productTitle": "transparent back cover for samsung galaxy s10",
+      "productImg": "./categories/wearAccessories/product34.jpg",
+      "productPrise": 90,
+      "productRating": 4.7,
+      "productRatingCount": 57,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 587,
+      "productTitle": "Ear Plug Anti-noise Waterproof Earplugs Soundproof Sleep Earmuffs Swimming Travel Ear plugs Bathroom Shower Ear Protection",
+      "productImg": "./categories/wearAccessories/product35.jpg",
+      "productPrise": 53,
+      "productRating": 4.8,
+      "productRatingCount": 101,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 588,
+      "productTitle": "For Tecno Spark 10 / Tecno Spark 10C Shockproof TPU Bumper Clear Acrylic Mobile Phone Case For Tecno Spark 10 C Back Cover",
+      "productImg": "./categories/wearAccessories/product36.jpg",
+      "productPrise": 115,
+      "productRating": 5,
+      "productRatingCount": 1,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 589,
+      "productTitle": "For Vivo Y21 / Vivo Y33S Shockproof Bumper Transparent Phone Case For vivo y21 Back Cover - মোবাইল ফোন - Phone",
+      "productImg": "./categories/wearAccessories/product37.jpg",
+      "productPrise": 111,
+      "productRating": 5,
+      "productRatingCount": 7,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 590,
+      "productTitle": "For Tecno Spark 10 Pro / Spark K17 Shockproof TPU Bumper Clear Acrylic Mobile Phone Case For Tecno Spark 10 Pro Back Cover",
+      "productImg": "./categories/wearAccessories/product38.jpg",
+      "productPrise": 111,
+      "productRating": 5,
+      "productRatingCount": 36,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 591,
+      "productTitle": "Pu Foam Anti-noise Waterproof Earplugs Soundproof Sleep Earmuffs Good 3M1100 professional noise reduction sound earplugs anti-noise learning to sleep with sleep",
+      "productImg": "./categories/wearAccessories/product39.jpg",
+      "productPrise": 29,
+      "productRating": 5,
+      "productRatingCount": 3,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
+    },
+    {
+      "id": 592,
+      "productTitle": "Glass Case Phone Back Cover For Realme C21 - Phone Back Cover",
+      "productImg": "./categories/wearAccessories/product40.jpg",
+      "productPrise": 150,
+      "productRating": 5,
+      "productRatingCount": 12,
+      "productShipping": "Bangladesh",
+      "categories": "wearAccessories"
     }
   ]
 }

@@ -12,7 +12,7 @@ const JFCard = () => {
     console.log(nextValue);
   };
   return (
-    <div className=" bg-white cursor-pointer hover:shadow-lg transition ease-in-out rounded-md ">
+    <div className=" bg-white cursor-pointer hover:shadow-lg  transition ease-in-out rounded-md ">
       <div className=" p-4 flex items-center flex-col gap-3">
         <Image height={250} src={productImg} alt="productImg" />
         <div className=" space-y-1 ">
@@ -25,13 +25,14 @@ const JFCard = () => {
               ৳522.75
             </p>
           </div>
-          <div>
+          <div className=" flex items-center gap-2">
             <ReactStars
               onChange={onChange}
               value={3.5}
               isEdit={true}
               activeColors={["orange"]}
             />
+            <p className=" text-neutral-400 text-[12px]">(211)</p>
           </div>
         </div>
       </div>
