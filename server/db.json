@@ -3,91 +3,91 @@
     {
       "id": 1,
       "title": "Jerseys",
-      "img": "./categories/jerseys.jpg",
+      "img": "https://i.ibb.co/YLdZdhn/jerseys.jpg",
       "tag": "jerseys"
     },
     {
       "id": 2,
       "title": "Fashion Mobile Accessories",
-      "img": "./categories/mobileAccessories.jpg",
+      "img": "https://i.ibb.co/0hrfpbz/mobile-Accessories.jpg",
       "tag": "fashionMobileAccessories"
     },
     {
       "id": 3,
       "title": "Phone Cases",
-      "img": "./categories/phoneCases.jpg",
+      "img": "https://i.ibb.co/5FfkXQr/phone-Cases.jpg",
       "tag": "phoneCases"
     },
     {
       "id": 4,
       "title": "T-Shirts",
-      "img": "./categories/tShirt.jpg",
+      "img": "https://i.ibb.co/pzfWq6V/tShirt.jpg",
       "tag": "tShirts"
     },
     {
       "id": 5,
       "title": "Smartwatches",
-      "img": "./categories/smartWatches.jpg",
+      "img": "https://i.ibb.co/F07ywYF/smart-Watches.jpg",
       "tag": "smartWatches"
     },
     {
       "id": 6,
       "title": "Trimmers, Groomers & Clippers",
-      "img": "./categories/trimmersGroomers.jpg",
+      "img": "https://i.ibb.co/xhP0tD6/trimmers-Groomers.jpg",
       "tag": "trimmers"
     },
     {
       "id": 7,
       "title": "Cloths & Towels",
-      "img": "./categories/cloths&Towels.jpg",
+      "img": "https://i.ibb.co/thZ7KC3/cloths-Towels.jpg",
       "tag": "cloths&Towels"
     },
     {
       "id": 8,
       "title": "In-Ear Headphones",
-      "img": "./categories/inEarHeadphones.jpg",
+      "img": "https://i.ibb.co/349fpxt/in-Ear-Headphones.jpg",
       "tag": "headphones"
     },
     {
       "id": 9,
       "title": "Hair Oils",
-      "img": "./categories/HairOils.jpg",
+      "img": "https://i.ibb.co/p1M5FPK/HairOils.jpg",
       "tag": "hairOils"
     },
     {
       "id": 10,
       "title": "Door hardware & locks",
-      "img": "./categories/DoorHardware.jpg",
+      "img": "https://i.ibb.co/K04XrbV/Door-Hardware.jpg",
       "tag": "hardwareAndLocks"
     },
     {
       "id": 11,
       "title": "Fashion Wallets",
-      "img": "./categories/wallets.jpg",
+      "img": "https://i.ibb.co/6sDmpRW/wallets.jpg",
       "tag": "wallets"
     },
     {
       "id": 12,
       "title": "Lens Cleaners",
-      "img": "./categories/lensCleaners.jpg",
+      "img": "https://i.ibb.co/Cv41LPx/lens-Cleaners.jpg",
       "tag": "lensCleaners"
     },
     {
       "id": 13,
       "title": "Masks & Repellents",
-      "img": "./categories/masks&Repellents.jpg",
+      "img": "https://i.ibb.co/Pz8Tg31/masks-Repellents.jpg",
       "tag": "masksAndRepellents"
     },
     {
       "id": 14,
       "title": "Rings",
-      "img": "./categories/rings.jpg",
+      "img": "https://i.ibb.co/85HQQ3n/rings.jpg",
       "tag": "rings"
     },
     {
       "id": 15,
       "title": "Accessories",
-      "img": "./categories/accessories.jpg",
+      "img": "https://i.ibb.co/xMmq6zZ/accessories.jpg",
       "tag": "wearAccessories"
     }
   ],
@@ -95,15 +95,17 @@
     {
       "id": 1,
       "title": "BMR4 50 KT Led Squire watch for both man and women Blue - Watch For Women",
-      "img": "./categories/justForYou/product1.jpg",
+      "img": "https://i.ibb.co/Qn0GXYt/product1.jpg",
       "price": 100,
       "rating": 4,
-      "ratingCount": 3
+      "ratingCount": 3,
+      "quantity": 5,
+      "delivery": "Dhaka, Dhaka North, Banani Road No. 12 - 19"
     },
     {
       "id": 2,
       "title": "1Pcs Wall Mounted Organizer Storage Box Remote Control Mounted Mobile Phone Plug Wall Holder Charging Multifunction Holder Stand - Phone Stand",
-      "img": "./categories/justForYou/product2.jpg",
+      "img": "https://i.ibb.co/ChCc07f/product2.jpg",
       "price": 46,
       "rating": 4,
       "ratingCount": 58
@@ -111,7 +113,7 @@
     {
       "id": 3,
       "title": "5 PCS Colorful luminous butterfly small night lamp flash simulation butterfly lamp Encounter",
-      "img": "./categories/justForYou/product3.jpg",
+      "img": "https://i.ibb.co/KFzpn4S/product3.jpg",
       "price": 190,
       "rating": 4,
       "ratingCount": 131
@@ -119,7 +121,7 @@
     {
       "id": 4,
       "title": "Beautiful Fairy Light - MultiColour/Multicolor 100Pcs LED Fairy Lights String Celebrations Party Decor & Gifts Decoration Lights, BirthDay, Eid - fairy lights for room decoration",
-      "img": "./categories/justForYou/product4.jpg",
+      "img": "https://i.ibb.co/VxRCdzS/product4.jpg",
       "price": 135,
       "rating": 4,
       "ratingCount": 131
@@ -127,7 +129,7 @@
     {
       "id": 5,
       "title": "Mixed Fruits and Nuts with_Honey - 250gm",
-      "img": "./categories/justForYou/product5.jpg",
+      "img": "https://i.ibb.co/4dxvCgh/product5.jpg",
       "price": 112,
       "rating": 4,
       "ratingCount": 3
@@ -135,7 +137,7 @@
     {
       "id": 6,
       "title": "Vintage T9 Hair Cutting Machine Hair Trimmer Recharge Professional Cordless Hair Trimmer",
-      "img": "./categories/justForYou/product6.jpg",
+      "img": "https://i.ibb.co/8cFNxSk/product6.jpg",
       "price": 440,
       "rating": 4,
       "ratingCount": 76
@@ -143,7 +145,7 @@
     {
       "id": 7,
       "title": "DAMILE Finger Sleeves for Gaming Finger Gloves Sweat Proof Breathable Fingertips For PUBG Mobile Games Touch Screen Finger Cots Cover Sensitive Mobile Touch Pro",
-      "img": "./categories/justForYou/product7.jpg",
+      "img": "https://i.ibb.co/fn4k41N/product7.jpg",
       "price": 299,
       "rating": 0,
       "ratingCount": 0
@@ -151,7 +153,7 @@
     {
       "id": 8,
       "title": "New Collection Better Choice Stylish and Fashionable Exclusive Sneakers Converse for Men",
-      "img": "./categories/justForYou/product8.jpg",
+      "img": "https://i.ibb.co/NpMz6jv/product8.jpg",
       "price": 456,
       "rating": 4,
       "ratingCount": 7
@@ -159,7 +161,7 @@
     {
       "id": 9,
       "title": "White printed Exclusive Summer Combo T-Shirt & Pant - T Shirt For Man",
-      "img": "./categories/justForYou/product9.jpg",
+      "img": "https://i.ibb.co/QQYx2Rk/product9.jpg",
       "price": 216,
       "rating": 4.8,
       "ratingCount": 1064
@@ -167,7 +169,7 @@
     {
       "id": 10,
       "title": "Men's Pu Leather Wallet High Quality Men Long Wallet Male Business Pu Leather Purse",
-      "img": "./categories/justForYou/product10.jpg",
+      "img": "https://i.ibb.co/Y7SNGy7/product10.jpg",
       "price": 139,
       "rating": 4,
       "ratingCount": 95
@@ -175,7 +177,7 @@
     {
       "id": 11,
       "title": "Black  New  Desing printed T-shirt For Men - T Shirt",
-      "img": "./categories/justForYou/product11.jpg",
+      "img": "https://i.ibb.co/Z6MD7JG/product11.jpg",
       "price": 86,
       "rating": 4,
       "ratingCount": 169
@@ -183,7 +185,7 @@
     {
       "id": 12,
       "title": "Rechargeable 2.4GHz RGB Dual mode  - Nano receiver - Palm Grip - Black Fun Gaming - Optical Wireless Mouse",
-      "img": "./categories/justForYou/product12.jpg",
+      "img": "https://i.ibb.co/GdMCmV6/product12.jpg",
       "price": 389,
       "rating": 4.2,
       "ratingCount": 147
@@ -191,7 +193,7 @@
     {
       "id": 13,
       "title": "Pregnant Women Belly Support Pillow Female Maternity",
-      "img": "./categories/justForYou/product13.jpg",
+      "img": "https://i.ibb.co/n14zQJX/product13.jpg",
       "price": 480,
       "rating": 5,
       "ratingCount": 200
@@ -199,7 +201,7 @@
     {
       "id": 14,
       "title": "Denim Casual shirt for men - Shirt",
-      "img": "./categories/justForYou/product14.jpg",
+      "img": "https://i.ibb.co/JcjcqgL/product14.jpg",
       "price": 458,
       "rating": 4.7,
       "ratingCount": 25
@@ -207,7 +209,7 @@
     {
       "id": 15,
       "title": "1 এম-ন্যানো ম্যাজিক ডাবল সাইড আঠালো টেপ 2cm/3cm/60pcs লাল বাক্স প্রশস্ত পরিষ্কার জলরোধী অ্যান্টি-স্লিপ ট্রেসলেস স্টিকি জেল প্যাড স্ট্রিপস গ্রিপ গাড়ি হোম অফিস সরবরাহের জন্য - magic stick",
-      "img": "./categories/justForYou/product15.jpg",
+      "img": "https://i.ibb.co/MDs8stZ/product15.jpg",
       "price": 67,
       "rating": 4.2,
       "ratingCount": 510
@@ -215,7 +217,7 @@
     {
       "id": 16,
       "title": "Loafer Styles' Rubber Sole Winter and Summer Wind Proof Shoe For Men",
-      "img": "./categories/justForYou/product16.jpg",
+      "img": "https://i.ibb.co/5GS3Wcm/product16.jpg",
       "price": 498,
       "rating": 5,
       "ratingCount": 3
@@ -223,7 +225,7 @@
     {
       "id": 17,
       "title": "Backpack For Real Madrid Mini Backpack Travel Bag Daypack Bookbags 10 L  Small Backpack 15 inch - Bag For Boys",
-      "img": "./categories/justForYou/product17.jpg",
+      "img": "https://i.ibb.co/nQS8J6Y/product17.jpg",
       "price": 144,
       "rating": 5,
       "ratingCount": 6
@@ -231,7 +233,7 @@
     {
       "id": 18,
       "title": "American Bracelet  Starfish Buckle Ring Bracelet 4 pieces Set ( Girls Palace)",
-      "img": "./categories/justForYou/product18.jpg",
+      "img": "https://i.ibb.co/DCBwQ0t/product18.jpg",
       "price": 175,
       "rating": 5,
       "ratingCount": 131
@@ -239,7 +241,7 @@
     {
       "id": 19,
       "title": "Apple_AirPods Pro 2nd Gen ANC In Ear Noise Cancelling Headphone Wireless Bluetooth-Black",
-      "img": "./categories/justForYou/product19.jpg",
+      "img": "https://i.ibb.co/4J4GjNX/product19.jpg",
       "price": 1650,
       "rating": 5,
       "ratingCount": 28
@@ -247,7 +249,7 @@
     {
       "id": 20,
       "title": "Double Fire Metal Crocodile Dolphin Lighter: Direct Windproof Open Fire Conversion Lighter for Men Creative Animal-Inspired Design",
-      "img": "./categories/justForYou/product20.jpg",
+      "img": "https://i.ibb.co/2sSDfSn/product20.jpg",
       "price": 353,
       "rating": 4,
       "ratingCount": 6
@@ -255,7 +257,7 @@
     {
       "id": 21,
       "title": "2/6/10pcs Android/Iphone Dustproof Net Stickers Speaker",
-      "img": "./categories/justForYou/product21.jpg",
+      "img": "https://i.ibb.co/g7jdBfb/product21.jpg",
       "price": 35,
       "rating": 4.4,
       "ratingCount": 140
@@ -264,7 +266,7 @@
     {
       "id": 22,
       "title": "Al Hilal Jersey 23-24  version Football Jersey Soccer Jersey Tshirt",
-      "img": "./categories/justForYou/product22.jpg",
+      "img": "https://i.ibb.co/MRtGYbn/product22.jpg",
       "price": 300,
       "rating": 3,
       "ratingCount": 8
@@ -272,7 +274,7 @@
     {
       "id": 23,
       "title": "BINBOND New Quartz men's watch trend market watch style locomotive concept watch For men",
-      "img": "./categories/justForYou/product23.jpg",
+      "img": "https://i.ibb.co/271J9fr/product23.jpg",
       "price": 474,
       "rating": 4.3,
       "ratingCount": 45
@@ -280,17 +282,25 @@
     {
       "id": 24,
       "title": "pack 3 piece underwear for men boxer",
-      "img": "./categories/justForYou/product24.jpg",
+      "img": "https://i.ibb.co/SRxYz81/product24.jpg",
       "price": 97,
       "rating": 3,
       "ratingCount": 2
+    },
+    {
+      "id": 25,
+      "title": "Desk Phone Holder, Adjustable Foldable Cell Phone Stand for Desk, Thick Case Friendly Phone Holder Stand Tablet Stand Compatible with All Smart Phones & Tablets",
+      "img": "https://i.ibb.co/thznLXc/product25.jpg",
+      "price": 175,
+      "rating": 4,
+      "ratingCount": 37
     }
   ],
   "flashSale": [
     {
       "id": 1,
       "title": "M90 Pro TWS Earphones HD Voice, Noise Cancelling, Bluetooth Earbuds - Elevate Your Audio with Unparalleled Sound Experience",
-      "img": "./categories/flashSale/product1.png",
+      "img": "https://i.ibb.co/f23qMp9/product1.png",
       "price": 528,
       "oldPrice": 1000,
       "sold": 50
@@ -298,7 +308,7 @@
     {
       "id": 2,
       "title": "Clear Men Shampoo Cool Sport Menthol Anti Dandruff 80ml",
-      "img": "./categories/flashSale/product2.jpg",
+      "img": "https://i.ibb.co/GnynKWn/product2.jpg",
       "price": 82,
       "oldPrice": 120,
       "sold": 0
@@ -306,7 +316,7 @@
     {
       "id": 3,
       "title": "Vegetable/ Fruit Multi Cutter and Peeler -",
-      "img": "./categories/flashSale/product3.jpg",
+      "img": "https://i.ibb.co/vqV3Xxw/product3.jpg",
       "price": 89,
       "oldPrice": 200,
       "sold": 81
@@ -314,7 +324,7 @@
     {
       "id": 4,
       "title": "Automatic Toothpaste Dispenser with Toothbrush Holder-White - brush holder",
-      "img": "./categories/flashSale/product4.jpg",
+      "img": "https://i.ibb.co/n6wJcdG/product4.jpg",
       "price": 249,
       "oldPrice": 400,
       "sold": 72
@@ -322,7 +332,7 @@
     {
       "id": 5,
       "title": "Design Nose Noth, Round Twisted Wire Design",
-      "img": "./categories/flashSale/product5.jpg",
+      "img": "https://i.ibb.co/FJTysbP/product5.jpg",
       "price": 640,
       "oldPrice": 1000,
       "sold": 1
@@ -330,7 +340,7 @@
     {
       "id": 6,
       "title": "Multifunctional Wall Mount Phone Charging Holder Stand with Extra Storage Box, Remote Control Holder, Mobile Phone Plug, Home Charging Shelf - Router Stand",
-      "img": "./categories/flashSale/product6.jpg",
+      "img": "https://i.ibb.co/tLQgy9k/product6.jpg",
       "price": 95,
       "oldPrice": 250,
       "sold": 29
@@ -338,7 +348,7 @@
     {
       "id": 7,
       "title": "Oven Proof Glass Serving Dish - Transparent 3 Pcs Set",
-      "img": "./categories/flashSale/product7.jpg",
+      "img": "https://i.ibb.co/NmpB9K2/product7.jpg",
       "price": 1960,
       "oldPrice": 2020,
       "sold": 3
@@ -346,7 +356,7 @@
     {
       "id": 8,
       "title": "30x30cm Car Bike Wash Double Layer Microfiber Towel: Ideal for Effortless Car Cleaning and Drying, Ensuring",
-      "img": "./categories/flashSale/product8.jpg",
+      "img": "https://i.ibb.co/YpHWsxt/product8.jpg",
       "price": 65,
       "oldPrice": 200,
       "sold": 111
@@ -354,7 +364,7 @@
     {
       "id": 9,
       "title": "LANBENA Nail Repair Essence Serum Fungus Treatment Nail Removal Onychomycosis-15ml",
-      "img": "./categories/flashSale/product9.jpg",
+      "img": "https://i.ibb.co/Bsm6Ccz/product9.jpg",
       "price": 325,
       "oldPrice": 950,
       "sold": 10
@@ -362,7 +372,7 @@
     {
       "id": 10,
       "title": "Acwell 5.5 Licorice PH Balancing Cleansing Toner 150ml",
-      "img": "./categories/flashSale/product10.jpg",
+      "img": "https://i.ibb.co/gFJwxQb/product10.jpg",
       "price": 939,
       "oldPrice": 1000,
       "sold": 2
@@ -370,7 +380,7 @@
     {
       "id": 11,
       "title": "Free-Hand and 360 Degree Rotating Spin Mop with Floor Cleaning-1Pcs",
-      "img": "./categories/flashSale/product11.jpg",
+      "img": "https://i.ibb.co/CVLgTBX/product11.jpg",
       "price": 735,
       "oldPrice": 800,
       "sold": 2
@@ -378,7 +388,7 @@
     {
       "id": 12,
       "title": "Topewon Pro 3 Wireless Bluetooth Headphone Smart Touch Sports Stereo Earbuds Headset with Charging Box Headphone",
-      "img": "./categories/flashSale/product12.jpg",
+      "img": "https://i.ibb.co/Y0L7ttF/product12.jpg",
       "price": 560,
       "oldPrice": 1000,
       "sold": 17
@@ -386,7 +396,7 @@
     {
       "id": 13,
       "title": "নতুন 5-60kg জিম ফিটনেস হ্যান্ড গ্রিপ পুরুষদের অ্যাডজাস্টেবল ফিঙ্গার হেভি এক্সারসাইজার শক্তি পেশী রিকভারি হ্যান্ড গ্রিপার ট্রেনারের জন্য - hand grip",
-      "img": "./categories/flashSale/product13.jpg",
+      "img": "https://i.ibb.co/kmCpj9x/product13.jpg",
       "price": 142,
       "oldPrice": 350,
       "sold": 17
@@ -394,7 +404,7 @@
     {
       "id": 14,
       "title": "(LEVELEX) LR 2018 Rechargeable Folding Table Fan with Light Multifunctional Cute fan",
-      "img": "./categories/flashSale/product14.jpg",
+      "img": "https://i.ibb.co/QkZ92nF/product14.jpg",
       "price": 923,
       "oldPrice": 1700,
       "sold": 7
@@ -402,7 +412,7 @@
     {
       "id": 15,
       "title": "সাবয়া ইন্টারন্যাশনালের প্রিমিয়াম মানের হোম টেক্স সিনথেটিক পর্দা, - porda",
-      "img": "./categories/flashSale/product15.jpg",
+      "img": "https://i.ibb.co/Z2NsmfY/product15.jpg",
       "price": 290,
       "oldPrice": 1410,
       "sold": 8
@@ -410,7 +420,7 @@
     {
       "id": 16,
       "title": "Whitening Nourishing Ultra Sheer Dry Touch Sunblock SPF 50+  Intensive UV Sunblock Cream",
-      "img": "./categories/flashSale/product16.jpg",
+      "img": "https://i.ibb.co/dGSfLt3/product16.jpg",
       "price": 562,
       "oldPrice": 500,
       "sold": 3
@@ -1217,7 +1227,7 @@
       "productShipping": "Bangladesh",
       "categories": "fashionMobileAccessories"
     },
-    // Phone Cases
+
     {
       "id": 81,
       "productTitle": "For Nokia X Back Shell / Casing / Cashing / Back Panel / Battery Cover with Button",
@@ -1618,8 +1628,6 @@
       "productShipping": "Free Shipping",
       "categories": "phoneCases"
     },
-
-    // T-Shirts
 
     {
       "id": 117,
@@ -2022,7 +2030,6 @@
       "categories": "tShirts"
     },
 
-    // Smartwatches
     {
       "id": 157,
       "productTitle": "Bluetooth Earphone Smartband 0.96 HD Touch Screen with Sleep Monitor, Wireless Music with HIFI Sound Quality, Smart watch Compatible Android phones & iPhone for Men's or Women's",
@@ -2423,7 +2430,7 @@
       "productShipping": "Free Shipping",
       "categories": "smartWatches"
     },
-    // Trimmers, Groomers & Clippers
+
     {
       "id": 197,
       "productTitle": "Philips BT3216 Series-3000 Beard Trimmer",
@@ -2845,7 +2852,6 @@
       "categories": "trimmers"
     },
 
-    // Cloths & Towels
     {
       "id": 239,
       "productTitle": "40 x 60 cm গাড়ির ডাবল লেয়ার মাইক্রোফাইবার তোয়ালে - bike",
@@ -3246,8 +3252,6 @@
       "productShipping": "Free Shipping",
       "categories": "cloths&Towels"
     },
-
-    // In-Ear Headphones
 
     {
       "id": 279,
@@ -3650,8 +3654,6 @@
       "categories": "headphones"
     },
 
-    // Hair Oils
-
     {
       "id": 319,
       "productTitle": "RiBANA organic Coconut Oil - 200 ml",
@@ -4052,7 +4054,6 @@
       "productShipping": "Free Shipping",
       "categories": "hairOils"
     },
-    // Door hardware & locks
 
     {
       "id": 359,
@@ -4455,8 +4456,6 @@
       "categories": "hardwareAndLocks"
     },
 
-    // Fashion Wallets
-
     {
       "id": 395,
       "productTitle": "High quality Artificial Leather wallet for men",
@@ -4858,7 +4857,6 @@
       "categories": "wallets"
     },
 
-    // Lens Cleaners
     {
       "id": 435,
       "productTitle": "200ml Screen Cleaner for DSLR Camera, TV, Computer Monitor, Laptop - Blue",
@@ -5260,8 +5258,6 @@
       "categories": "lensCleaners"
     },
 
-    // Masks & Repellents
-
     {
       "id": 475,
       "productTitle": "36Pcs Useful Easy to Apply Mosquito Stickers Reusable Cute Compact Mosquito Patches Portable for Outdoor Mosquito Repellant Patches",
@@ -5662,7 +5658,6 @@
       "productShipping": "Free Shipping",
       "categories": "masksAndRepellents"
     },
-    // Rings
 
     {
       "id": 515,
@@ -6065,7 +6060,6 @@
       "categories": "rings"
     },
 
-    // Wear Accessories
     {
       "id": 553,
       "productTitle": "Long Arm Sleeves for Both Male and Female | Stay Stylish and Protected with Versatile Colors: Black, Sky Blue, Skin, White, Gray",
