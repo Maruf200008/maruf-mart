@@ -1,7 +1,6 @@
 import Image from "next/image";
 
 const Categorie = ({ categori }) => {
-  console.log(categori);
   const { img, title } = categori;
 
   return (
