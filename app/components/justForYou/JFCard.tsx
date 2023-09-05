@@ -6,7 +6,6 @@ import ReactStars from "react-rating-star-with-type";
 const JFCard = ({ product }) => {
   const { img, price, rating, ratingCount, title } = product;
   const [star, setStar] = useState(rating);
-  console.log(product);
 
   const onChange = (nextValue) => {
     setStar(nextValue);
